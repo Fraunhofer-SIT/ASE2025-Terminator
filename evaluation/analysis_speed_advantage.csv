@@ -1,0 +1,16 @@
+target,mean_advantage,ci_lower,ci_upper
+acrobat,2.10,1.01,3.50
+alzip,6.25,4.16,8.74
+bandiview,12.28,5.18,21.36
+birdfont,5.79,4.47,7.06
+foxit,5.44,4.46,6.66
+fsviewer,9.55,7.62,11.78
+irfanview,2.23,1.93,2.57
+kofax,2.26,1.71,2.93
+mupdf,1.61,1.31,1.94
+slimpdf,7.16,3.98,11.14
+stdu,4.38,3.38,5.33
+sumatra,45.49,14.51,79.90
+uiso,36.18,28.16,44.37
+winrar,1.89,1.06,2.88
+xpdf,12.81,9.47,16.64
